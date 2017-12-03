@@ -1,0 +1,60 @@
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe.config
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.pdb
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csprojResolveAssemblyReference.cache
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csproj.GenerateResource.Cache
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.exe
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.pdb
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Jogo.resources
+J:\Escola\LPR\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.telaInicial.resources
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe.config
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.exe
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.pdb
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.pdb
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csprojResolveAssemblyReference.cache
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Jogo.resources
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.telaInicial.resources
+K:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csproj.GenerateResource.Cache
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe.config
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.exe
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.pdb
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.pdb
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csprojResolveAssemblyReference.cache
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Jogo.resources
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.telaInicial.resources
+J:\4º Bimestre\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csproj.GenerateResource.Cache
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe.config
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.exe
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.pdb
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.pdb
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csprojResolveAssemblyReference.cache
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Jogo.resources
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.telaInicial.resources
+F:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csproj.GenerateResource.Cache
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe.config
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.exe
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.pdb
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.pdb
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csprojResolveAssemblyReference.cache
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Jogo.resources
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.telaInicial.resources
+K:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csproj.GenerateResource.Cache
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe.config
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.exe
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.pdb
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.exe
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\bin\Debug\Trabalho_Final.pdb
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csprojResolveAssemblyReference.cache
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Jogo.resources
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.Properties.Resources.resources
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.telaInicial.resources
+J:\Trabalho Final\Trabalho_Final\Trabalho_Final\obj\Debug\Trabalho_Final.csproj.GenerateResource.Cache
